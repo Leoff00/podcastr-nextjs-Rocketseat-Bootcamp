@@ -1,4 +1,4 @@
- <h1 align="center" style="color: #afb2b1"> ![favicon](https://user-images.githubusercontent.com/66839023/115909815-69843180-a442-11eb-8793-3d731999e9ae.png) PODCASTR </h1>
+ <h1 align="center" style="color: #afb2b1"> PODCASTR </h1>
 
 ## ⚙️ Tecnologias utilizadas: 
 ✔️ [date-fns](https://date-fns.org) <br>
